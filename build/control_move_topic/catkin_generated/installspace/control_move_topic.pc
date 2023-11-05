@@ -1,0 +1,8 @@
+prefix=/home/agilex/task3/car_ws/install
+
+Name: control_move_topic
+Description: Description of control_move_topic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

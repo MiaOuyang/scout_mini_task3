@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/motion_state.dir/src/tracer_demo.cpp.o  -o /home/agilex/task3/car_ws/devel/lib/car_control/motion_state  -L/home/agilex/catkin_ws/devel/lib -Wl,-rpath,/home/agilex/catkin_ws/devel/lib -lugv_sdk -lpthread 

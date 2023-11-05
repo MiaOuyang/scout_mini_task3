@@ -1,0 +1,8 @@
+prefix=/home/agilex/task3/car_ws/devel
+
+Name: marker_rviz
+Description: Description of marker_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

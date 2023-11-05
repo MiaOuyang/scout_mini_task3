@@ -1,0 +1,2 @@
+car_control:control_move_subscriber:control_move_topic:marker_rviz:show_information:show_information_subscriber
+-DCATKIN_DEVEL_PREFIX=/home/agilex/task3/car_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/task3/car_ws/install -G Unix Makefiles

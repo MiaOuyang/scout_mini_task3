@@ -1,0 +1,8 @@
+prefix=/home/agilex/task3/car_ws/devel
+
+Name: control_move_subscriber
+Description: Description of control_move_subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

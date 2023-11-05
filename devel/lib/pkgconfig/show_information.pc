@@ -1,0 +1,8 @@
+prefix=/home/agilex/task3/car_ws/devel
+
+Name: show_information
+Description: Description of show_information
+Version: 0.0.0
+Cflags: -I/home/agilex/task3/car_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs std_msgs ugv_sdk message_runtime

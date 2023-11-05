@@ -1,0 +1,8 @@
+prefix=/home/agilex/task3/car_ws/devel
+
+Name: show_information_subscriber
+Description: Description of show_information_subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
